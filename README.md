@@ -14,9 +14,10 @@ Code Editors :
         This Is My Book Store, Welcome
       </body>
     </html>
-* #### <html> - <head> - <body>
+    
+* #### < html> - < head> - < body>
         The Basic HTML Page Structure 
-* #### <head> </head>
+* #### < head> < /head>
         Contains instructions and informations about the pages
 * #### <title> </title>   
         The tab name - site name in google search 
@@ -36,16 +37,16 @@ Code Editors :
       </body>
     </html>
     
-* #### <meta charset="UTF-8" /> 
+* #### < meta charset="UTF-8" /> 
         The Standard characters set that supports more language ex. [Ar , En] at the same 
         time without problems - *Must be added to your page*
-* #### <meta name="description" content="Describtion of the Website" />
+* #### < meta name="description" content="Describtion of the Website" />
         The Describtion of the Website that appears in google search under the site name
          - *Must be added to your page*
 * #### <style> </style>
         CSS Code is added here
 * #### <script> </script>
         Javascript Code is added here
-* #### <link rel="stylesheet" href="">
+* #### < link rel="stylesheet" href="">
         To link the other files to the HTML page ex. [CSS style file]
 
