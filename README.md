@@ -40,9 +40,7 @@ Code Editors :
 * #### < meta charset="UTF-8" /> 
         The Standard characters set that supports more language ex. [Ar , En] at the same 
         time without problems - *Must be added to your page*
-* #### < meta name="description" content="Describtion of the Website" />
-        The Describtion of the Website that appears in google search under the site name
-         - *Must be added to your page*
+* #### meta -  [elzero reference](https://elzero.org/everything-about-meta-tag/)
 * #### <style> </style>
         CSS Code is added here
 * #### <script> </script>
@@ -50,3 +48,11 @@ Code Editors :
 * #### < link rel="stylesheet" href="">
         To link the other files to the HTML page ex. [CSS style file]
 
+### 05 - Comments And Use Cases
+* #### HTML Comment
+        <!-- This Is single line Comment -->
+        <!-- This Is multi line Comment 
+             This Is multi line Comment
+                                         -->
+* #### VS Code copy html elements trick
+        Alt + Shift + ↓
