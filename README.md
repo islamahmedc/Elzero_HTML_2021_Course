@@ -14,7 +14,7 @@ Code Editors :
         This Is My Book Store, Welcome
       </body>
     </html>
-* #### <html> , <head> , <body>
+* #### <html> - <head> - <body>
         The Basic HTML Page Structure 
 * #### <head> </head>
         Contains instructions and informations about the pages
