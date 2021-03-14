@@ -1,0 +1,5 @@
+1 - <!doctype html>
+2 - Quirks Mode
+3 - No , to maintain the hierarchal order.
+4 - No , hierarchal order must be maintained to be friendly to serach engines.
+5 - The different levels of the headig element h1 is the biggest one - h6 is the samllest one

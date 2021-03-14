@@ -1,0 +1,1 @@
+There is no difference as both of them will be hidden due to the hidden attribute

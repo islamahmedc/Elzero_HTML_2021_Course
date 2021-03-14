@@ -1,0 +1,1 @@
+There is no difference as the class attribute doesn't affect the display and the value of the attribue is correct in the three cases

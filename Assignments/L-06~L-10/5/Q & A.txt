@@ -1,0 +1,8 @@
+title	: Global
+href	: Not Global
+src	: Not Global
+hidden	: Global
+charset	: Not Global
+class	: Global
+id	: Global
+type	: Not Global

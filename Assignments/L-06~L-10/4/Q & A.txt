@@ -1,0 +1,1 @@
+Yes they will be displayed in the same way where there is no withe spaces as the browser ignores the white spaces in the code
