@@ -14,3 +14,5 @@
     * ### [Assignments](https://github.com/islamahmedc/Elzero_HTML_2021_Course/tree/master/Assignments/L-24~L-27)
 * ### [L-28 ~ L-30](https://github.com/islamahmedc/Elzero_HTML_2021_Course/wiki/L-28-~-L-30)
     * ### [Assignments](https://github.com/islamahmedc/Elzero_HTML_2021_Course/tree/master/Assignments/L-28~L-30)
+* ### [L-31 ~ L-34](https://github.com/islamahmedc/Elzero_HTML_2021_Course/wiki/L-31-~-L-34)
+    * ### [Assignments](https://github.com/islamahmedc/Elzero_HTML_2021_Course/tree/master/Assignments/L-31~L-34)
