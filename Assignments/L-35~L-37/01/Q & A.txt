@@ -1,0 +1,8 @@
+1 - <input type="submit">
+2 - <h1></h1>
+3 - <h2></h2>
+4 - <p> </p>
+5 - <html lang="en"></html> & <meta lang="en">
+6 - 10 To 20
+7 - <div tabindex="0">Plan Two</div>
+8 - ARIA : Accessible Rich Internet Applications

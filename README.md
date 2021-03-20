@@ -1,3 +1,5 @@
+# Thanks to Eng : Osama Mohamed
+# [Elzero Website](https://elzero.org/) - [Youtube](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
 # Elzero HTML 2021 Course Summery
 
 * ### [L-01 ~ L-05](https://github.com/islamahmedc/Elzero_HTML_2021_Course/wiki/Home---L-01-~-L-05)
@@ -16,3 +18,5 @@
     * ### [Assignments](https://github.com/islamahmedc/Elzero_HTML_2021_Course/tree/master/Assignments/L-28~L-30)
 * ### [L-31 ~ L-34](https://github.com/islamahmedc/Elzero_HTML_2021_Course/wiki/L-31-~-L-34)
     * ### [Assignments](https://github.com/islamahmedc/Elzero_HTML_2021_Course/tree/master/Assignments/L-31~L-34)
+* ### [L-35 ~ L-37](https://github.com/islamahmedc/Elzero_HTML_2021_Course/wiki/L-35-~-L-37)
+    * ### [Assignments](https://github.com/islamahmedc/Elzero_HTML_2021_Course/tree/master/Assignments/L-35~L-37)
